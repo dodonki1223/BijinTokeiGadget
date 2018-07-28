@@ -1,0 +1,4 @@
+﻿#以下のフォルダを含まない
+/.vs/
+/BijinTokeiGadget\bin/
+/BijinTokeiGadget\obj/

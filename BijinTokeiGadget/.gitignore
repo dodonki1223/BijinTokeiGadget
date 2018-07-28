@@ -1,0 +1,6 @@
+﻿#以下のフォルダを含まない
+/bin/
+/obj/
+/.vs/
+BijinTokeiGadget.v11.suo
+.docstates.suo

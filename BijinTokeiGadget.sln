@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BijinTokeiGadget", "BijinTokeiGadget\BijinTokeiGadget.vbproj", "{705D8F31-7374-4CD4-B426-AB6EEA62D6AB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreateBijnTokeiData", "CreateBijinTokeiData\CreateBijnTokeiData.vbproj", "{CA0C8526-3E6B-46D5-B113-6B471CD8E740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705D8F31-7374-4CD4-B426-AB6EEA62D6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705D8F31-7374-4CD4-B426-AB6EEA62D6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705D8F31-7374-4CD4-B426-AB6EEA62D6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705D8F31-7374-4CD4-B426-AB6EEA62D6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0C8526-3E6B-46D5-B113-6B471CD8E740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0C8526-3E6B-46D5-B113-6B471CD8E740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0C8526-3E6B-46D5-B113-6B471CD8E740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0C8526-3E6B-46D5-B113-6B471CD8E740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3EE0B0-A263-4B9A-97F3-D7330237C4ED}
+	EndGlobalSection
+EndGlobal
