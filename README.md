@@ -13,7 +13,7 @@
 ```
 BijinTokeiGadget
  ├ Image
- ｜  ├ NoImages
+ ｜  └ NoImages
  ｜      ├ NoImage_Local.jpg
  ｜      └ NoImage_Official.jpg
  ├ BijinTokeiGadget.exe
