@@ -13,9 +13,9 @@
 ```
 BijinTokeiGadget
  ├ Image
- ｜  └ NoImages
- ｜      ├ NoImage_Local.jpg
- ｜      └ NoImage_Official.jpg
+ |  └ NoImages
+ |      ├ NoImage_Local.jpg
+ |      └ NoImage_Official.jpg
  ├ BijinTokeiGadget.exe
  └ BijinTokeiInfo.xml
 ```
